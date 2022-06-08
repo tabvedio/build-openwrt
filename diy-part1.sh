@@ -15,4 +15,3 @@
 
 # Add a feed source
 echo 'src-git tabvedio https://github.com/tabvedio/small-package' >>feeds.conf.default
-echo 'src-git helloworld src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
