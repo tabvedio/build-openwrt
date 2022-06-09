@@ -14,4 +14,4 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-echo 'src-git tabvedio https://github.com/tabvedio/small-package' >>feeds.conf.default
+#echo 'src-git tabvedio https://github.com/tabvedio/small-package' >>feeds.conf.default
